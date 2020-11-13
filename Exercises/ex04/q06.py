@@ -1,0 +1,2 @@
+# Escreva um programa que receba como parâmetro de entrada um número inteiro de dígitos no intervalo fechado [10000, 30000] que represente códigos de produtos vendidos em uma loja. A função deve calcular e retorna o dígito verificador utilizando regra de cálculo explicada a seguir. COnsidere o código 21853, em cada dígito é multiplicado por um peso começando em 2, os valores obtidos são somados, e do total obtido calcula-se o resto de sua divisão por 7.
+

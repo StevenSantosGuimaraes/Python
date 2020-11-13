@@ -1,0 +1,2 @@
+# Escreva um programa que leia um número inteiro Q e que exiba na teka os Q primeiros termos da sequência Fibonacci, utilizando uma função recursiva para determinar o elemento da sequencia a ser exibido. A sequência Fibonacci, já vista nos Exercícios resolvidos 3.7 e 4.7, caracteriza-se por um termo ser a soma dos dois anteriore, sendo que os dois primerios termos são 0 e 1. Assim, os dez primeiros termos são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
+
