@@ -1,3 +1,5 @@
+# Escreva uma função que recebe um número inteiro como parãmetro de entrada e retona o texto "PAR" ou "ÍMPAR".
+
 def ParImpar(num):
     if num % 2 == 1:
         msg = "IMPAR."
