@@ -1,9 +1,11 @@
-def fibonacci(num):
-    if num <= 1:
-        return num
+def ParImpar(num):
+    if num % 2 == 1:
+        msg = "IMPAR."
+        return msg
     else:
-        return fibonacci(num - 1) + fibonacci(num - 2)
+        msg = "PAR."
+        return msg
 
-x = int(input("Informe qual número fibonacci deseja ver: "))
-res = fibonacci(x - 1)
-print("O fibonacci de %d é %d" % (x, res))
+X = int(input("Informe um número: "))
+res = ParImpar(X)
+print("O número informado foi {0} e ele é: {1} !!!".format(X, res))
