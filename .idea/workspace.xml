@@ -26,7 +26,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.q05">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\temporario\htdocs\ProjectCoop\Python\Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.q01">
+    <configuration name="q01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises/ex02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/ex02/q01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="q02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.q01" />
         <item itemvalue="Python.q05" />
         <item itemvalue="Python.q04" />
         <item itemvalue="Python.q03" />
@@ -136,21 +163,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="292" key="GridCell.Tab.0.bottom" timestamp="1606707065845">
-      <screen x="-2560" y="0" width="2560" height="1080" />
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1606850925172">
+      <screen x="-1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850925172" />
     <state width="1256" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080/-2560.0.2560.1080@-2560.0.2560.1080" timestamp="1606707065845" />
-    <state width="1256" height="292" key="GridCell.Tab.0.center" timestamp="1606707065844">
-      <screen x="-2560" y="0" width="2560" height="1080" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1606850925172">
+      <screen x="-1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850925172" />
     <state width="1256" height="292" key="GridCell.Tab.0.center/0.0.1920.1080/-2560.0.2560.1080@-2560.0.2560.1080" timestamp="1606707065844" />
-    <state width="1256" height="292" key="GridCell.Tab.0.left" timestamp="1606707065844">
-      <screen x="-2560" y="0" width="2560" height="1080" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1606850925172">
+      <screen x="-1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850925172" />
     <state width="1256" height="292" key="GridCell.Tab.0.left/0.0.1920.1080/-2560.0.2560.1080@-2560.0.2560.1080" timestamp="1606707065844" />
-    <state width="1256" height="292" key="GridCell.Tab.0.right" timestamp="1606707065844">
-      <screen x="-2560" y="0" width="2560" height="1080" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1606850925172">
+      <screen x="-1366" y="0" width="1366" height="768" />
     </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850925172" />
     <state width="1256" height="292" key="GridCell.Tab.0.right/0.0.1920.1080/-2560.0.2560.1080@-2560.0.2560.1080" timestamp="1606707065844" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1606850740430">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850740430" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1606850740430">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850740430" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1606850740430">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850740430" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1606850740430">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850740430" />
   </component>
 </project>
