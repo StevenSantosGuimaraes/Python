@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5579fec2-9d79-4dba-bc9e-e8d94ad12778" name="Default Changelist" comment="Test" />
+    <list default="true" id="5579fec2-9d79-4dba-bc9e-e8d94ad12778" name="Default Changelist" comment="Test">
+      <change afterPath="$PROJECT_DIR$/Exercises/ex02/q02.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,10 +161,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
+<<<<<<< Updated upstream
   <component name="WindowStateProjectService">
     <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1606850925172">
       <screen x="-1366" y="0" width="1366" height="768" />
@@ -200,4 +215,6 @@
     </state>
     <state width="1345" height="238" key="GridCell.Tab.1.right/-1366.0.1366.768/0.0.1366.768@-1366.0.1366.768" timestamp="1606850740430" />
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
