@@ -5,4 +5,7 @@ Diferenças:
 - As tuplas são imutáveis: logo ao se criar uma tupla ela não muda. Toda operação em uma tupla gera uma nova tupla.
 
 """
-tupla = tuple(range(11))
+tupla = ('Geek University', 'programção em Python: Essencial')
+escola, curso = tupla
+print(escola)
+print(curso)
