@@ -1,2 +1,2 @@
-num = int(input("Enter an integer: "))
-print("The number entered is: {}".format(num))
+num = int(input("Olá informe um número inteiro: "))
+print(f"Foi informado o valor: {num}")
