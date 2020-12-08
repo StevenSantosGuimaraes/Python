@@ -1,2 +1,2 @@
-num = int(input("Enter an real number: "))
-print("The number reported was: {:.2f}".format(num))
+num = int(input("Olá, informe um número inteiro: "))
+print(f"The number reported was: {num:.2f}")
