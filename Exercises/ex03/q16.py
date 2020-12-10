@@ -1,14 +1,14 @@
 idadeSala = []
 analisador = 1
 tIdade = 0
-while(analisador != 0):
+while analisador != 0:
     nIdade = int(input("Uma idade válida para continua ou ZERO para iniciar analise: "))
-    if(nIdade != 0):
+    if nIdade != 0:
         idadeSala.append(nIdade)
         tIdade += nIdade
         nIdade = 0
         continue
-    elif(nIdade == 0):
+    elif nIdade == 0:
         break
     else:
         continue
@@ -34,7 +34,7 @@ while i < (len(idadeSala) - 1):
     else:
         i += 1
 k = len(idadeSala)
-if(nTermos % 2 == 0):
+if nTermos % 2 == 0:
     j = int(k / 2)
     mediana = (idadeSala[j - 1] + idadeSala[j]) / 2
 else:
